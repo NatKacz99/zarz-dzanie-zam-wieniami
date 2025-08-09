@@ -1,3 +1,1 @@
-# Projekt dedykowany dla kursu Podstawowe Wzorce Projektowe
-
-http://udemy.com/wzorce-projektowe
+Projekt służący do wyswietlania statusu zamóweinia z wzorcem projektowym Obserwator.
