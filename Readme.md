@@ -1,1 +1,1 @@
-Projekt służący do wyswietlania statusu zamóweinia z wzorcem projektowym Obserwator.
+Projekt służący do wyświetlania statusu zamóweinia z wzorcem projektowym Obserwator.
